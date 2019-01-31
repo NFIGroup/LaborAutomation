@@ -1,0 +1,20 @@
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\bin\Debug\Labor Automation.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\bin\Debug\Labor Automation.pdb
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\bin\Debug\RightNow.AddIns.AddInViews.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\bin\Debug\RightNow.AddIns.AddInViews.xml
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\obj\Debug\Labor Automation.csprojResolveAssemblyReference.cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\obj\Debug\Labor_Automation.Properties.Resources.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\obj\Debug\Labor_Automation.WorkspaceAddIn.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\obj\Debug\Labor Automation.csproj.GenerateResource.Cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\obj\Debug\Labor Automation.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\Working Add-ins\Labor Automation\Labor Automation\obj\Debug\Labor Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Debug\Labor_Automation.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Debug\Labor_Automation.WorkspaceAddIn.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Debug\Labor Automation.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Debug\Labor Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Debug\Labor Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Debug\Labor Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Debug\Labor Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Debug\Labor Automation.csprojResolveAssemblyReference.cache

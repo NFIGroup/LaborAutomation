@@ -1,0 +1,18 @@
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Release\Labor_Automation.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Release\Labor_Automation.WorkspaceAddIn.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Release\Labor Automation.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Release\Labor Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Release\Labor Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Release\Labor Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\Labor Automation\Labor Automation\obj\Release\Labor Automation.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\bin\Release\Labor Automation.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\bin\Release\Labor Automation.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\obj\Release\Labor_Automation.Properties.Resources.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\obj\Release\Labor_Automation.WorkspaceAddIn.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\obj\Release\Labor Automation.csproj.GenerateResource.Cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\obj\Release\Labor Automation.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\Labor Automation\Labor Automation\obj\Release\Labor Automation.pdb
